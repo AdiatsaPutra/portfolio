@@ -7,7 +7,7 @@ const GetInTouch = () => {
         Get In Touch
       </p>
       <p className="text-md md:text-xl text-white mx-10">
-        I'm currently looking for new opportunity. <br></br> You can contact me
+        Im currently looking for new opportunity. <br></br> You can contact me
         at
         <Link href="mailto:adiatsaputrasantika@gmail.com">
           <a className="text-indigo-500"> adiatsaputrasantika@gmail.com</a>
