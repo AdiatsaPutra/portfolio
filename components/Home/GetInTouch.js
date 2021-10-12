@@ -2,7 +2,7 @@ import Link from "next/link";
 
 const GetInTouch = () => {
   return (
-    <div className="bg-gray-900 text-center py-52">
+    <div className="bg-gray-900 text-center py-10 md:py-52">
       <p className="transition duration-500 mb-10 text-white font-bold text-xl xl:text-5xl hover:text-indigo-500 cursor-pointer">
         Get In Touch
       </p>
